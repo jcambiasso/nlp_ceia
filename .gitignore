@@ -1,0 +1,5 @@
+mtgjson_dataset/*
+other_datasets/*
+
+!mtgjson_dataset/.gitkeep
+!other_datasets/.gitkeep 
